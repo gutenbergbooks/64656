@@ -1,4 +1,4 @@
-﻿The Project Gutenberg eBook of Historia de los siete murciélagos, by Manuel
+﻿The Project Gutenberg eBook of Historia de les siete murciélagos, by Manuel
 Fernández González
 
 This eBook is for the use of anyone anywhere in the United States and
@@ -9,11 +9,11 @@ www.gutenberg.org. If you are not located in the United States, you
 will have to check the laws of the country where you are located before
 using this eBook.
 
-Title: Historia de los siete murciélagos
+Title: Historia de les siete murciélagos
 
 Author: Manuel Fernández González
 
-Release Date: March 01, 2021 [eBook #64656]
+Release Date: February 28, 2021 [eBook #64656]
 
 Language: Spanish
 
@@ -24,7 +24,7 @@ Produced by: Carlos Colón, The Library of Congress and the Online
              file was produced from images generously made available by The
              Internet Archive/American Libraries.)
 
-*** START OF THE PROJECT GUTENBERG EBOOK HISTORIA DE LOS SIETE
+*** START OF THE PROJECT GUTENBERG EBOOK HISTORIA DE LES SIETE
 MURCIÉLAGOS ***
 
 
@@ -8794,7 +8794,7 @@ La alabanza á Dios.
 
   VII.--Los siete encantos de los siete suelos        294
 
-*** END OF THE PROJECT GUTENBERG EBOOK HISTORIA DE LOS SIETE
+*** END OF THE PROJECT GUTENBERG EBOOK HISTORIA DE LES SIETE
 MURCIÉLAGOS ***
 
 Updated editions will replace the previous one--the old editions will
